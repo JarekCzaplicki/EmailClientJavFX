@@ -1,4 +1,4 @@
-package EmailClient;
+package EmailClient.model;
 
 import java.util.HashMap;
 import java.util.Map;

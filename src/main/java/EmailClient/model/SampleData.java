@@ -1,8 +1,9 @@
-package EmailClient;
+package EmailClient.model;
 
 import java.util.HashMap;
 import java.util.Map;
 
+import EmailClient.model.EmailMessageBean;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 
