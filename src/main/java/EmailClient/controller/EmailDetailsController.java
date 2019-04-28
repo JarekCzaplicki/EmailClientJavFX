@@ -29,7 +29,6 @@ public class EmailDetailsController implements Initializable {
 
         subjectLabel.setText("Subject: " + singleton.getMessage().getSubject());
         SenderLabel.setText("Sender: " + singleton.getMessage().getSender());
-
         webView.getEngine().loadContent(singleton.getMessage().getContent());
 
 
